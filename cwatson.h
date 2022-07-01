@@ -12,7 +12,7 @@ class CWatson
 {
 public:
     CWatson();
-    QByteArray getTTS(QString, QString, QString);
+    QByteArray getTTS(QString, QString);
     QString getSTT(QByteArray, QString);
 
 private:
