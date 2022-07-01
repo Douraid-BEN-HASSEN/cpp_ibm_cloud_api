@@ -9,7 +9,7 @@ CWatson::CWatson()
     this->_apiTTS_Url = "{your_tts_url}";
 }
 
-QByteArray CWatson::getTTS(QString pText, QString pFilename, QString pVoice)
+QByteArray CWatson::getTTS(QString pText, QString pVoice)
 {
         QByteArray reponse;
         QString data = "{\"text\":\"" + pText + "\"}";
