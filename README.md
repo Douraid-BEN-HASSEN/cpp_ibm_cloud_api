@@ -1,12 +1,12 @@
 # qt_ibm_cloud_api_in_cpp
 
 Simple IBM Cloud api implementation of speech to text and text to speech (SST & TTS)
- [cpp_webrequest](https://github.com/Douraid-BEN-HASSEN/cpp_webrequest)
+
 ## Requirements
 ```
-- CWebrequest class [cpp_webrequest](https://github.com/Douraid-BEN-HASSEN/cpp_webrequest)
+- CWebrequest class
 ```
-
+[CWebrequest](https://github.com/Douraid-BEN-HASSEN/cpp_webrequest)
 
 ## Example
 ```
