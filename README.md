@@ -4,7 +4,7 @@ Simple IBM Cloud api implementation of speech to text and text to speech (SST & 
 
 ## Requirements
 ```
-- CWebrequest class https://github.com/Douraid-BEN-HASSEN/cpp_webrequest
+- CWebrequest class [https://github.com/Douraid-BEN-HASSEN/cpp_webrequest](https://github.com/Douraid-BEN-HASSEN/cpp_webrequest)
 ```
 
 
